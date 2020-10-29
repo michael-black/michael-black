@@ -14,6 +14,7 @@ Here are the languages/tools I'm familiar with (orange color = give me an hour a
 
 ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=SQL&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Stata-informational?style=flat&logo=Stata&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-SAS-informational?style=flat&logo=SAS&logoColor=white&color=FFA500)
 ![](https://img.shields.io/badge/Code-GAMS-informational?style=flat&logo=GAMS&logoColor=white&color=FFA500)
