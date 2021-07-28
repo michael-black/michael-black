@@ -1,6 +1,6 @@
-### Hello world
+### Hello, world!
 
-My name is Michael, and I am a PhD candidate in applied economics at Texas A&M University. I use data to build models to test economic theory, and am *very* cautious about making statistical inferences. 
+My name is Michael, and I am a federal economist. Any views expressed here are my own. Any materials posted here are my own.
 
 [Check out the class I teach on basic econometrics](https://github.com/econ-by-mb/agec317).
 (You can watch some full lectures [here](https://www.youtube.com/channel/UCxDNlrqcNZ4c3yS8IN_aC7A/featured))
